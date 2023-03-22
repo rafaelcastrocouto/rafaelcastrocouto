@@ -1,5 +1,6 @@
 | CSS Art: [codepen.io](https://codepen.io/rafaelcastrocouto) | Shaders: [shadertoy.com](https://www.shadertoy.com/user/rafaelcastrocouto) |
 | :---: | :---: |
+| **Tweets: [twitter.com](https://twitter.com/racascou)** | **Social: [facebook.com](https://www.facebook.com/rafaelcastrocouto)** |
 | **Tutorials: [replit.com](https://replit.com/@rafaelcastrocouto)** | **Support: [stackoverflow.com](https://stackoverflow.com/users/1242389/rafaelcastrocouto)** |
 | **Games: [itch.io](https://racascou.itch.io)** | **Community: [discord.gg](https://discord.gg/a4TwjAR)** |
 | **Meet: [calendly.com](https://calendly.com/rafaelcastrocouto/meet)** | **Business: [linkedin.com](https://www.linkedin.com/in/rafaelcastrocouto)** |
